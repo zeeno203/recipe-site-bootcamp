@@ -1,1 +1,3 @@
-# html-noodles-swe1
+# Rocket Academy Coding Bootcamp
+
+## HTML Noodles
