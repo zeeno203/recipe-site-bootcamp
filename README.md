@@ -1,1 +1,1 @@
-# Rocket Academy Coding Bootcamp: Recipe Site
+# Coding Bootcamp: Recipe Site
